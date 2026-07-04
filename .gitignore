@@ -1,0 +1,26 @@
+# Vivado generated directories
+.Xil/
+*.cache/
+*.runs/
+*.sim/
+*.hw/
+*.gen/
+*.ip_user_files/
+
+# Vivado logs
+*.jou
+*.log
+*.str
+
+# Generated outputs
+*.bit
+*.bin
+*.ltx
+*.dcp
+
+# Waveforms and simulation outputs
+*.wdb
+*.vcd
+
+# OS files
+.DS_Store
